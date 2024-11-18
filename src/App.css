@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 13px;
+}
+
+span {
+  font-size: 55px;
+  cursor: pointer;
+}
+.colored {
+  color: rgb(255, 128, 0);
+}
+.unColor {
+  color: black;
+}
